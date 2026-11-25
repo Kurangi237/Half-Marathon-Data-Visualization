@@ -2,6 +2,10 @@
 
 A small, interactive what-if tool for exploring how training assumptions could affect a half-marathon finish time. The starting scenario uses a recent long-run pace of **10:45/mi**, three runs per week, and ten weeks until race day.
 
+## Live demo
+
+https://half-marathon-data-visualization.vercel.app/
+
 ## Run it
 
 Open [`index.html`](./index.html) in a modern web browser. The project is a standalone page: no dependencies, build step, or server are required.
