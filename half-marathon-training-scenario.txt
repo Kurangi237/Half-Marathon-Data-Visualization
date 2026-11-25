@@ -1,0 +1,11 @@
+Half Marathon Sub-2 Simulator — Training Scenario
+Weeks until race: 10
+Training runs per week: 3
+Selected weekly pace improvement: 8.4 sec/mi
+Modelled weekly improvement: 8.4 sec/mi
+Baseline pace: 10:45/mi
+Projected race-day pace: 9:21/mi
+Projected finish: 2h 02m 28s
+Target: under 2h 00m 00s
+
+Estimate only: assumes linear pace improvement and scales it by the square root of weekly run frequency. Actual performance may differ.
